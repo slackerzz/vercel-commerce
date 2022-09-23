@@ -1,5 +1,10 @@
 lockfileVersion: 5.4
 
+patchedDependencies:
+  react-instantsearch-hooks-server@6.33.0:
+    hash: f4nf7sd5zx5c2akdiwnmam7rci
+    path: patches/react-instantsearch-hooks-server@6.33.0.patch
+
 importers:
 
   .:
